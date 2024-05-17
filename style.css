@@ -8,7 +8,7 @@ body {
   margin-bottom: 20px;
   font-family: 'Arial', sans-serif;
   font-size: 20px;
-  color: #6A4B18;
+  color: #F89FC2;
   background-color: #F0E4D0;
   padding: 10px;
   border-radius: 10px;
@@ -21,7 +21,7 @@ body {
 
 .candle-count-display span {
   font-weight: bold;
-  color: #AD030F;
+  color: #DFA4F0;
 }
 
 .cake {
@@ -87,7 +87,7 @@ body {
   bottom: 6px;
   left: 5px;
   background-color: #f4ebdc;
-  box-shadow: 0 0 4px #f6efe3, 0 0 4px #f6efe3, 0 0 4px #f6efe3;
+  box-shadow: 0 0 4px #F89FC2, 0 0 4px #F89FC2, 0 0 4px #F89FC2;
   border-radius: 50%;
   z-index: 1;
 }
